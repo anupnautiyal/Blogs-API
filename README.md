@@ -54,7 +54,3 @@ curl -X POST -H "Content-Type: application/json" \
 
 ## License & Notes 📝
 Simple educational project for the Web Development course. Modify freely for learning and experimentation.
-
----
-
-If you'd like, I can add an npm `start` script and a short `DEV.md` with testing instructions. Let me know! 🎯
